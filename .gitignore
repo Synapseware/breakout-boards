@@ -22,6 +22,7 @@ TcfTransactionLog.csv
 *.l#*
 *.s#*
 *.avw
+*.lck
 eagleup/
 Visual Micro/
 **.vcxproj.filters
