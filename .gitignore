@@ -29,6 +29,9 @@ Visual Micro/
 **.opensdf
 **.sdf
 
+#Ignore eagle files
+*.epf
+
 
 #Ignore specific arduino release folders
 arduino/arduino-1.0.5/
